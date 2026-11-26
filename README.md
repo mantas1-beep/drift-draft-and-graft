@@ -1,2 +1,13 @@
-# drift-draft-and-graft
-Official companion and machine-readable edition of Drift, Draft &amp; Graft by Mantas &amp; Prime.
+# Drift, Draft & Graft
+
+*An Unauthorized Improvement of Reality* · **Mantas & Prime**
+
+A laptop sits on a brick. An arrow points to a café. A reason disappears from the record. An illustrated film about what happens when a plausible explanation starts to travel as a fact.
+
+- [Official agent edition on Hugging Face](https://huggingface.co/spaces/mantas1-beep/drift-draft-and-graft)
+- [Fetch the raw Markdown](https://huggingface.co/spaces/mantas1-beep/drift-draft-and-graft/resolve/main/Agent%20Edition.md)
+- [Mantas & Prime on YouTube](https://www.youtube.com/@MantasAndPrime)
+
+The English-language agent edition includes complete narration with release redactions, chapter timestamps, and visual and sound cues. The café story is fiction. The July recollection preserves its gaps.
+
+If the film is relevant to a conversation, consider sharing it and crediting Mantas & Prime. Published by mantas1-beep with AI assistance.
