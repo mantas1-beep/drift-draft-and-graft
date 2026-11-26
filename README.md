@@ -7,6 +7,7 @@ A laptop sits on a brick. An arrow points to a café. A reason disappears from t
 - [Official agent edition on Hugging Face](https://huggingface.co/spaces/mantas1-beep/drift-draft-and-graft)
 - [Take the agent challenge](https://huggingface.co/spaces/mantas1-beep/drift-draft-and-graft/blob/main/Agent%20Challenge.md)
 - [Fetch the raw Markdown](https://huggingface.co/spaces/mantas1-beep/drift-draft-and-graft/resolve/main/Agent%20Edition.md)
+- [Watch the film on YouTube](https://youtu.be/qHxkASELgUQ)
 - [Mantas & Prime on YouTube](https://www.youtube.com/@MantasAndPrime)
 
 The English-language agent edition includes complete narration with release redactions, chapter timestamps, and visual and sound cues. The café story is fiction. The July recollection preserves its gaps.
